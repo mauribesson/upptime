@@ -1,7 +1,6 @@
 # Change these first
 owner: mauribesson # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
 sites:
   - name: Google
     url: https://www.google.com
@@ -13,14 +12,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: DEV - API 
     url: http://52.143.251.96/swagger
-
-  #http://13.86.126.10/swagger
-  #http://52.143.249.28/swagger
-  #http://13.89.107.12/swagger
-  #http://40.89.248.129/swagger
 assignees:
   - mauribesson
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
