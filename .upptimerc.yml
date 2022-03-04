@@ -35,6 +35,22 @@ sites:
      url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
      
      
+     
+    # APIs Backend Publico PROD
+   - name: API transact - PROD
+     url: https://transact.prod.api.eflow.com.ar/swagger
+
+   - name: API ticket - PROD
+     url: https://ticket.prod.api.eflow.com.ar/swagger
+
+   - name: API auth - PROD
+     url: https://auth.prod.api.eflow.com.ar/swagger
+
+   - name: API appointment - PROD
+     url: https://appointment.prod.api.eflow.com.ar/swagger
+
+   - name: API announcement - PROD
+     url: https://announcement.prod.api.eflow.com.ar/swagger
     
     
     
