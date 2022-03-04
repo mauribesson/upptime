@@ -21,22 +21,21 @@ sites:
   - name: DEV - API - Annucement[VER estaba caido al probar] 
     url: http://40.89.248.129/swagger
     
-    #  VQs PROD 
-   - name: VQ PROD AR
-     url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
+ #  VQs PROD 
+  - name: VQ PROD AR
+    url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
 
-   - name: VQ PROD MX
-     url: http://demomx.sidesys.com.mx/virtualqueue/index.html
+  - name: VQ PROD MX
+    url: http://demomx.sidesys.com.mx/virtualqueue/index.html
      
-   - name: VQ PROD SV 
-     url: http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
+  - name: VQ PROD SV 
+    url: http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
 
-   - name: VQ PROD GT 
-     url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
+  - name: VQ PROD GT 
+    url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
      
      
-     
-    # APIs Backend Publico PROD
+ # APIs Backend Publico PROD
    - name: API transact - PROD
      url: https://transact.prod.api.eflow.com.ar/swagger
 
