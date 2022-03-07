@@ -40,18 +40,20 @@
     "url": "http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html",
     "icon": "https://favicons.githubusercontent.com/demolatam.sidesys.com.ar",
     "slug": "vq-prod-sv",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2677,
     "timeDay": 4153,
     "timeWeek": 2677,
     "timeMonth": 2677,
     "timeYear": 2677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "VQ PROD GT",
