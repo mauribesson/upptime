@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/demoarg.sidesys.com.ar",
     "slug": "vq-prod-ar",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 3029,
     "timeDay": 2005,
     "timeWeek": 3397,
     "timeMonth": 3029,
     "timeYear": 3029,
     "dailyMinutesDown": {
-      "2022-03-17": 15
+      "2022-03-17": 29
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/demomx.sidesys.com.mx",
     "slug": "vq-prod-mx",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.54%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 2365,
     "timeDay": 3189,
     "timeWeek": 2277,
     "timeMonth": 2365,
     "timeYear": 2365,
     "dailyMinutesDown": {
-      "2022-03-17": 78
+      "2022-03-17": 92
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/ticket.prod.api.eflow.com.ar",
     "slug": "api-ticket-prod",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.57%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1511,
     "timeDay": 2680,
     "timeWeek": 1640,
     "timeMonth": 1511,
     "timeYear": 1511,
     "dailyMinutesDown": {
-      "2022-03-17": 71
+      "2022-03-17": 85
     }
   },
   {
@@ -125,9 +125,9 @@
     "url": "https://auth.prod.api.eflow.com.ar/swagger",
     "icon": "https://favicons.githubusercontent.com/auth.prod.api.eflow.com.ar",
     "slug": "api-auth-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.13%",
+    "uptimeDay": "95.11%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
@@ -165,9 +165,9 @@
     "url": "https://announcement.prod.api.eflow.com.ar/swagger",
     "icon": "https://favicons.githubusercontent.com/announcement.prod.api.eflow.com.ar",
     "slug": "api-announcement-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "95.89%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
