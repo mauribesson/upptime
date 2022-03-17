@@ -40,18 +40,19 @@
     "url": "http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html",
     "icon": "https://favicons.githubusercontent.com/demolatam.sidesys.com.ar",
     "slug": "vq-prod-sv",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 3574,
     "timeDay": 3447,
     "timeWeek": 4083,
     "timeMonth": 3574,
     "timeYear": 3574,
     "dailyMinutesDown": {
+      "2022-03-17": 0,
       "2022-03-07": 16
     }
   },
@@ -60,9 +61,9 @@
     "url": "http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html",
     "icon": "https://favicons.githubusercontent.com/demolatam.sidesys.com.ar",
     "slug": "vq-prod-gt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +72,9 @@
     "timeWeek": 169,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   },
   {
     "name": "API transact - PROD",
@@ -114,9 +117,9 @@
     "url": "https://auth.prod.api.eflow.com.ar/swagger",
     "icon": "https://favicons.githubusercontent.com/auth.prod.api.eflow.com.ar",
     "slug": "api-auth-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +128,9 @@
     "timeWeek": 1854,
     "timeMonth": 1680,
     "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   },
   {
     "name": "API appointment - PROD",
@@ -150,7 +155,7 @@
     "url": "https://announcement.prod.api.eflow.com.ar/swagger",
     "icon": "https://favicons.githubusercontent.com/announcement.prod.api.eflow.com.ar",
     "slug": "api-announcement-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -161,6 +166,8 @@
     "timeWeek": 512,
     "timeMonth": 1011,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   }
 ]
