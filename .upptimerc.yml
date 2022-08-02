@@ -17,6 +17,9 @@ sites:
  #  VQs PROD 
   - name: VQ PROD AR
     url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
+    
+  - name: VQ PROD RD
+    url: http://demord.sidesys.com.do/virtualqueue/index.html
 
   - name: VQ PROD MX
     url: http://demomx.sidesys.com.mx/virtualqueue/index.html
@@ -26,6 +29,9 @@ sites:
 
   - name: VQ PROD GT 
     url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
+    
+  - name: VQ PROD CR 
+    url: http://democr.sidesys.co.cr/virtualqueue/index.html
      
      
  # APIs Backend Publico PROD
