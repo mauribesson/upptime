@@ -138,19 +138,19 @@
     "url": "http://democr.sidesys.co.cr/virtualqueue/index.html",
     "icon": "https://favicons.githubusercontent.com/democr.sidesys.co.cr",
     "slug": "vq-prod-cr",
-    "status": "down",
-    "uptime": "95.08%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "95.08%",
-    "time": 3826,
-    "timeDay": 3826,
-    "timeWeek": 3826,
-    "timeMonth": 3826,
-    "timeYear": 3826,
+    "status": "up",
+    "uptime": "94.45%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.45%",
+    "time": 3384,
+    "timeDay": 3384,
+    "timeWeek": 3384,
+    "timeMonth": 3384,
+    "timeYear": 3384,
     "dailyMinutesDown": {
-      "2022-08-03": 60
+      "2022-08-03": 69
     }
   },
   {
