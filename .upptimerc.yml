@@ -11,7 +11,7 @@ sites:
  #   url: http://52.143.249.28/swagger
  # - name: DEV - API - Appointment Api
  #   url: http://13.89.107.12/swagger
- # - name: DEV - API - Annucement[VER estaba caido al probar] 
+ # - name: DEV - API - Annucement[VER estaba caido al probar ] 
  #   url: http://40.89.248.129/swagger
     
  #  VQs PROD 
