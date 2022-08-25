@@ -49,6 +49,23 @@ sites:
 
   - name: API announcement - PROD
     url: https://announcement.prod.api.eflow.com.ar/swagger
+
+  
+# APIs Backend Publico TEST
+  - name: API transact - TEST
+    url: http://52.154.219.177/swagger
+
+  - name: API ticket - TEST
+    url: http://20.118.2.237/swagger
+
+  - name: API auth - TEST
+    url: http://20.118.2.6/swagger
+
+  - name: API appointment - TEST
+    url: http://20.118.0.8/swagger
+
+  - name: API announcement - TEST
+    url: http://52.185.31.123/swagger
     
       
 assignees:
