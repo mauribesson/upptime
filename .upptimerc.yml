@@ -65,7 +65,7 @@ sites:
     url: http://20.118.0.8/swagger
 
   - name: API announcement - TEST
-    url: http://52.185.31.123/swagger
+    url: http://20.109.236.182/swagger
     
       
 assignees:
