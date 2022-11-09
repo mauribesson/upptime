@@ -1,7 +1,7 @@
 url: https://announcement.prod.api.eflow.com.ar/swagger
-status: up
-code: 200
-responseTime: 4726
-lastUpdated: 2022-11-09T13:49:05.442Z
+status: down
+code: 502
+responseTime: 3612
+lastUpdated: 2022-11-09T19:37:02.899Z
 startTime: Fri Mar 04 2022 00:32:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
