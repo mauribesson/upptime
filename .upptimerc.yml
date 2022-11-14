@@ -19,7 +19,7 @@ sites:
     url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
     
   - name: VQ PROD RD
-    url: http://demord.sidesys.com.do/virtualqueue/index.html
+    url: http://demord.sidesys.com.do:8080/virtualqueue/index.html
 
   - name: VQ PROD MX
     url: http://demomx.sidesys.com.mx/virtualqueue/index.html
