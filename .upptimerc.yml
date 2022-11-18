@@ -17,55 +17,71 @@ sites:
  #  VQs PROD 
   - name: VQ PROD AR
     url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
+    maxResponseTime: 60000
     
   - name: VQ PROD RD
     url: http://demord.sidesys.com.do:8080/virtualqueue/index.html
+    maxResponseTime: 60000
 
   - name: VQ PROD MX
     url: http://demomx.sidesys.com.mx/virtualqueue/index.html
+    maxResponseTime: 60000
      
   - name: VQ PROD SV 
     url: http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
+    maxResponseTime: 60000
 
   - name: VQ PROD GT 
     url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
+    maxResponseTime: 60000
     
   - name: VQ PROD CR 
     url: http://democr.sidesys.co.cr/virtualqueue/index.html
+    maxResponseTime: 60000
      
      
  # APIs Backend Publico PROD
   - name: API transact - PROD
     url: https://transact.prod.api.eflow.com.ar/swagger
+    maxResponseTime: 60000
 
   - name: API ticket - PROD
     url: https://ticket.prod.api.eflow.com.ar/swagger
+    maxResponseTime: 60000
 
   - name: API auth - PROD
     url: https://auth.prod.api.eflow.com.ar/swagger
+    maxResponseTime: 60000
 
   - name: API appointment - PROD
     url: https://appointment.prod.api.eflow.com.ar/swagger
+    maxResponseTime: 60000
 
   - name: API announcement - PROD
     url: https://announcement.prod.api.eflow.com.ar/swagger
+    maxResponseTime: 60000
 
   
 # APIs Backend Publico TEST
   - name: API transact - TEST
     url: http://52.154.219.177/swagger
+    maxResponseTime: 60000
 
   - name: API ticket - TEST
     url: http://20.118.2.237/swagger
+    maxResponseTime: 60000
 
   - name: API auth - TEST
     url: http://20.118.2.6/swagger
+    maxResponseTime: 60000
 
   - name: API appointment - TEST
     url: http://20.118.0.8/swagger
+    maxResponseTime: 60000
 
   - name: API announcement - TEST
     url:  http://13.86.127.46/swagger
+    maxResponseTime: 60000
     
       
 assignees:
