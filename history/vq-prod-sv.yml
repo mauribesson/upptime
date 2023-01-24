@@ -1,7 +1,7 @@
 url: http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
-status: up
-code: 200
-responseTime: 8227
-lastUpdated: 2023-01-24T04:49:38.269Z
+status: down
+code: 500
+responseTime: 1131
+lastUpdated: 2023-01-24T04:57:56.102Z
 startTime: Fri Mar 04 2022 00:32:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
