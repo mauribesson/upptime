@@ -24,7 +24,7 @@ sites:
     maxResponseTime: 60000
 
   - name: VQ PROD MX
-    url: http://demomx.sidesys.com.mx/virtualqueue/index.html
+    url: http://demomx.sidesys.com.mx/AA-virtualqueue/index.html
     maxResponseTime: 60000
      
   - name: VQ PROD SV 
