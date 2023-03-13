@@ -19,8 +19,12 @@ sites:
     url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
     maxResponseTime: 60000
     
-  - name: VQ PROD RD
-    url: http://demord.sidesys.com.do:8080/virtualqueue/index.html
+  #- name: VQ PROD RD
+  #  url: http://demord.sidesys.com.do:8080/virtualqueue/index.html
+  #  maxResponseTime: 60000
+  
+  - name: VQ PROD CO
+    url: http://demord.sidesys.com.do:8080/virtualqueue_CO/index.html
     maxResponseTime: 60000
 
   - name: VQ PROD MX
