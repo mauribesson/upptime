@@ -1,7 +1,7 @@
 url: http://demoarg.sidesys.com.ar/virtualqueue/index.html
-status: down
-code: 503
-responseTime: 400
-lastUpdated: 2023-05-02T03:48:48.183Z
+status: up
+code: 200
+responseTime: 5652
+lastUpdated: 2023-05-02T13:35:50.307Z
 startTime: Fri Mar 04 2022 00:31:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
