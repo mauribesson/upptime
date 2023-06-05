@@ -67,25 +67,25 @@ sites:
 
   
 # APIs Backend Publico TEST
-  - name: API transact - TEST
-    url: http://52.154.219.177/swagger
-    maxResponseTime: 60000
+  #- name: API transact - TEST
+   # url: http://52.154.219.177/swagger
+    #maxResponseTime: 60000
 
-  - name: API ticket - TEST
-    url: http://20.118.2.237/swagger
-    maxResponseTime: 60000
+  #- name: API ticket - TEST
+   # url: http://20.118.2.237/swagger
+    #maxResponseTime: 60000
 
-  - name: API auth - TEST
-    url: http://20.118.2.6/swagger
-    maxResponseTime: 60000
+  #- name: API auth - TEST
+   # url: http://20.118.2.6/swagger
+    #maxResponseTime: 60000
 
-  - name: API appointment - TEST
-    url: http://20.118.0.8/swagger
-    maxResponseTime: 60000
+  #- name: API appointment - TEST
+    #url: http://20.118.0.8/swagger
+    #maxResponseTime: 60000
 
-  - name: API announcement - TEST
-    url:  http://13.86.127.46/swagger
-    maxResponseTime: 60000
+  #- name: API announcement - TEST
+   # url:  http://13.86.127.46/swagger
+    #maxResponseTime: 60000
     
       
 assignees:
