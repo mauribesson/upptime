@@ -1,7 +1,7 @@
 url: https://ticket.prod.api.eflow.com.ar/swagger
 status: up
 code: 200
-responseTime: 361
-lastUpdated: 2023-08-18T23:11:32.756Z
-startTime: Fri Mar 04 2022 00:32:04 GMT+0000 (Coordinated Universal Time)
+responseTime: 140
+lastUpdated: 2023-08-19T23:10:40.107Z
+startTime: 2022-03-04T00:32:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
