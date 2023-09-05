@@ -32,11 +32,11 @@ sites:
     maxResponseTime: 60000
      
   - name: VQ PROD SV 
-    url: http://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
+    url: https://demolatam.sidesys.com.ar/VirtualQueue_SV/index.html
     maxResponseTime: 60000
 
   - name: VQ PROD GT 
-    url: http://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
+    url: https://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
     maxResponseTime: 60000
     
   - name: VQ PROD CR 
