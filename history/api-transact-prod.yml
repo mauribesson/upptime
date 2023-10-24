@@ -1,7 +1,7 @@
 url: https://transact.prod.api.eflow.com.ar/swagger
-status: down
-code: 503
-responseTime: 258
-lastUpdated: 2023-10-23T23:12:39.305Z
+status: up
+code: 200
+responseTime: 296
+lastUpdated: 2023-10-24T19:24:53.775Z
 startTime: 2022-03-04T00:32:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
