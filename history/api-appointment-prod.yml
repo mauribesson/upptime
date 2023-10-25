@@ -1,7 +1,7 @@
 url: https://appointment.prod.api.eflow.com.ar/swagger
-status: down
-code: 503
-responseTime: 203
-lastUpdated: 2023-10-24T23:12:10.366Z
+status: up
+code: 200
+responseTime: 457
+lastUpdated: 2023-10-25T11:52:17.725Z
 startTime: 2022-03-04T00:32:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
