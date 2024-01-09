@@ -65,6 +65,20 @@ sites:
     url: https://announcement.prod.api.eflow.com.ar/swagger
     maxResponseTime: 60000
 
+
+
+# VQs CHATBOT PROD 
+  - name: VQ Chatbot PROD RD BANCO
+    url: https://sidesysgoiar.e-flow.com.ar/VQ_Banco_Chatbot_PROD/index.html
+    maxResponseTime: 60000
+
+  - name: VQ Chatbot PROD RD HOSPITAL
+    url: https://sidesysgoiar.e-flow.com.ar/VQ_Hospital_Chatbot_PROD/index.html
+    maxResponseTime: 60000
+
+   - name: VQ Chatbot PROD RD MUNICIPALIDAD
+    url: https://sidesysgoiar.e-flow.com.ar/VQ_Municipalidad_Chatbot_PROD/index.html
+    maxResponseTime: 60000   
   
 # APIs Backend Publico TEST
   #- name: API transact - TEST
