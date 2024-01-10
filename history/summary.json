@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/demolatam.sidesys.com.ar.ico",
     "slug": "vq-prod-sv",
     "status": "up",
-    "uptime": "90.55%",
+    "uptime": "90.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.78%",
     "uptimeMonth": "99.49%",
@@ -359,7 +359,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/transact.prod.api.eflow.com.ar.ico",
     "slug": "api-transact-prod",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -719,18 +719,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidesysgoiar.e-flow.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-banco",
     "status": "down",
-    "uptime": "58.73%",
-    "uptimeDay": "58.73%",
-    "uptimeWeek": "58.73%",
-    "uptimeMonth": "58.73%",
-    "uptimeYear": "58.73%",
+    "uptime": "46.19%",
+    "uptimeDay": "46.19%",
+    "uptimeWeek": "46.19%",
+    "uptimeMonth": "46.19%",
+    "uptimeYear": "46.19%",
     "time": 4514,
     "timeDay": 4514,
     "timeWeek": 4514,
     "timeMonth": 4514,
     "timeYear": 4514,
     "dailyMinutesDown": {
-      "2024-01-10": 435
+      "2024-01-10": 721
     }
   },
   {
@@ -739,18 +739,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sidesysgoiar.e-flow.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-hospital",
     "status": "down",
-    "uptime": "58.76%",
-    "uptimeDay": "58.76%",
-    "uptimeWeek": "58.76%",
-    "uptimeMonth": "58.76%",
-    "uptimeYear": "58.76%",
+    "uptime": "46.20%",
+    "uptimeDay": "46.20%",
+    "uptimeWeek": "46.20%",
+    "uptimeMonth": "46.20%",
+    "uptimeYear": "46.20%",
     "time": 13283,
     "timeDay": 13283,
     "timeWeek": 13283,
     "timeMonth": 13283,
     "timeYear": 13283,
     "dailyMinutesDown": {
-      "2024-01-10": 434
+      "2024-01-10": 720
     }
   },
   {
@@ -758,19 +758,19 @@
     "url": "https://sidesysgoiar.e-flow.com.ar/VQ_Municipalidad_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/sidesysgoiar.e-flow.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-municipalidad",
-    "status": "down",
-    "uptime": "58.80%",
-    "uptimeDay": "58.80%",
-    "uptimeWeek": "58.80%",
-    "uptimeMonth": "58.80%",
-    "uptimeYear": "58.80%",
-    "time": 4437,
-    "timeDay": 4437,
-    "timeWeek": 4437,
-    "timeMonth": 4437,
-    "timeYear": 4437,
+    "status": "up",
+    "uptime": "46.27%",
+    "uptimeDay": "46.27%",
+    "uptimeWeek": "46.27%",
+    "uptimeMonth": "46.27%",
+    "uptimeYear": "46.27%",
+    "time": 4774,
+    "timeDay": 4774,
+    "timeWeek": 4774,
+    "timeMonth": 4774,
+    "timeYear": 4774,
     "dailyMinutesDown": {
-      "2024-01-10": 434
+      "2024-01-10": 719
     }
   }
 ]
