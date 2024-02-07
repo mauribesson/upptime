@@ -24,7 +24,7 @@ sites:
   #    maxResponseTime: 60000
   
   - name: VQ PROD CO
-    url: http://demord.sidesys.com.do:8080/virtualqueue_CO/index.html
+    url: https://demord.sidesys.com.do/virtualqueue_CO/index.html
     maxResponseTime: 60000
 
   - name: VQ PROD MX
