@@ -1,7 +1,7 @@
 url: https://democr.sidesys.co.cr/virtualqueue/index.html
-status: down
-code: 500
-responseTime: 522
-lastUpdated: 2024-05-04T23:13:00.475Z
+status: up
+code: 200
+responseTime: 6585
+lastUpdated: 2024-05-05T18:16:30.263Z
 startTime: 2022-08-02T18:28:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
