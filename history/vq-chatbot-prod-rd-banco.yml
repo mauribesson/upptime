@@ -1,7 +1,7 @@
-url: https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD_XX/index.html
-status: down
-code: 404
-responseTime: 549
-lastUpdated: 2024-05-20T19:22:54.293Z
+url: https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD/index.html
+status: up
+code: 200
+responseTime: 509
+lastUpdated: 2024-05-20T19:34:36.387Z
 startTime: 2024-01-09T19:17:46.948Z
 generator: Upptime <https://github.com/upptime/upptime>
