@@ -69,7 +69,7 @@ sites:
 
 # VQs CHATBOT PROD 
   - name: VQ Chatbot PROD RD BANCO
-    url: https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD_XX/index.html
+    url: https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD/index.html
     maxResponseTime: 60000
 
   - name: VQ Chatbot PROD RD HOSPITAL
