@@ -16,7 +16,7 @@ sites:
     
  #  VQs PROD 
   - name: VQ PROD AR
-    url: https://demoarg.sidesys.com.ar/virtualqueue/index.html
+    url: https://demoarg.sidesys.com.ar/virtualqueue_XX/index.html
     maxResponseTime: 60000
     
   #  - name: VQ PROD RD --
