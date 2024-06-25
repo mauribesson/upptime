@@ -1,7 +1,7 @@
 url: https://auth.prod.api.eflow.com.ar/swagger
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-24T23:17:24.176Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2024-06-25T12:24:50.677Z
 startTime: 2022-03-04T00:32:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
