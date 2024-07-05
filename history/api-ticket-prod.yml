@@ -1,7 +1,7 @@
 url: https://ticket.prod.api.eflow.com.ar/swagger
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-04T23:15:40.533Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2024-07-05T11:47:54.386Z
 startTime: 2022-03-04T00:32:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
