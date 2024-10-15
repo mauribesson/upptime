@@ -1,7 +1,7 @@
 url: https://demomx.sidesys.com.mx/virtualqueue/index.html
-status: down
-code: 503
-responseTime: 3698
-lastUpdated: 2024-10-15T14:11:10.777Z
+status: up
+code: 200
+responseTime: 29171
+lastUpdated: 2024-10-15T15:26:02.089Z
 startTime: 2022-03-04T00:31:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
