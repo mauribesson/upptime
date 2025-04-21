@@ -1,7 +1,7 @@
 url: https://chatbot-prod.sidesys.com.ar/VQ_Municipalidad_Chatbot_PROD/index.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-21T07:16:24.981Z
+status: up
+code: 200
+responseTime: 168
+lastUpdated: 2025-04-21T07:36:32.609Z
 startTime: 2024-01-09T19:18:52.370Z
 generator: Upptime <https://github.com/upptime/upptime>
