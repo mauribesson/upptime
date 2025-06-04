@@ -1,7 +1,7 @@
 url: https://demolatam.sidesys.com.ar/VirtualQueue_GT/index.html
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2025-06-03T23:21:44.091Z
+status: down
+code: 503
+responseTime: 540
+lastUpdated: 2025-06-04T14:20:02.773Z
 startTime: 2022-03-04T00:32:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
