@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demoarg.sidesys.com.ar.ico",
     "slug": "vq-prod-ar",
     "status": "down",
-    "uptime": "63.27%",
+    "uptime": "63.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3778,
-    "timeDay": 3671,
-    "timeWeek": 3697,
-    "timeMonth": 3714,
+    "timeDay": 0,
+    "timeWeek": 3701,
+    "timeMonth": 3708,
     "timeYear": 3778,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -379,8 +380,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demord.sidesys.com.do.ico",
     "slug": "vq-prod-co",
     "status": "down",
-    "uptime": "52.68%",
+    "uptime": "52.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3729,
-    "timeDay": 3676,
-    "timeWeek": 3665,
-    "timeMonth": 3671,
+    "timeDay": 0,
+    "timeWeek": 3663,
+    "timeMonth": 3664,
     "timeYear": 3729,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -763,8 +764,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demomx.sidesys.com.mx.ico",
     "slug": "vq-prod-mx",
     "status": "down",
-    "uptime": "63.37%",
+    "uptime": "63.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3662,
-    "timeDay": 3677,
-    "timeWeek": 3620,
-    "timeMonth": 3634,
+    "timeDay": 0,
+    "timeWeek": 3625,
+    "timeMonth": 3631,
     "timeYear": 3662,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1147,8 +1148,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -1157,19 +1157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demolatam.sidesys.com.ar.ico",
     "slug": "vq-prod-sv",
     "status": "down",
-    "uptime": "80.44%",
+    "uptime": "80.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.99%",
-    "time": 1836,
-    "timeDay": 3757,
-    "timeWeek": 3671,
-    "timeMonth": 3639,
-    "timeYear": 2317,
+    "uptimeYear": "36.75%",
+    "time": 1838,
+    "timeDay": 0,
+    "timeWeek": 3679,
+    "timeMonth": 3634,
+    "timeYear": 2321,
     "dailyMinutesDown": {
       "2025-06-03": 899,
-      "2025-06-02": 468,
       "2025-06-04": 57,
       "2025-06-17": 19,
       "2025-06-20": 21,
@@ -1189,7 +1188,8 @@
       "2025-09-27": 120,
       "2025-09-29": 60,
       "2025-09-30": 24,
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1427,19 +1427,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demolatam.sidesys.com.ar.ico",
     "slug": "vq-prod-gt",
     "status": "down",
-    "uptime": "79.32%",
+    "uptime": "79.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.03%",
-    "time": 1419,
-    "timeDay": 3814,
-    "timeWeek": 3642,
-    "timeMonth": 3499,
-    "timeYear": 1694,
+    "uptimeYear": "36.80%",
+    "time": 1422,
+    "timeDay": 0,
+    "timeWeek": 3666,
+    "timeMonth": 3520,
+    "timeYear": 1698,
     "dailyMinutesDown": {
       "2025-06-03": 900,
-      "2025-06-02": 467,
       "2025-06-04": 40,
       "2025-06-20": 20,
       "2025-07-12": 47,
@@ -1452,7 +1451,8 @@
       "2025-09-27": 120,
       "2025-09-29": 59,
       "2025-09-30": 23,
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1690,18 +1690,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/democr.sidesys.co.cr.ico",
     "slug": "vq-prod-cr",
     "status": "down",
-    "uptime": "59.02%",
+    "uptime": "58.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3740,
-    "timeDay": 3675,
-    "timeWeek": 3630,
-    "timeMonth": 3627,
+    "timeDay": 0,
+    "timeWeek": 3622,
+    "timeMonth": 3625,
     "timeYear": 3740,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -2064,8 +2065,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -2074,7 +2074,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/transact.prod.api.eflow.com.ar.ico",
     "slug": "api-transact-prod",
     "status": "down",
-    "uptime": "54.98%",
+    "uptime": "54.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2085,7 +2085,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -2448,8 +2449,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -2458,7 +2458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ticket.prod.api.eflow.com.ar.ico",
     "slug": "api-ticket-prod",
     "status": "down",
-    "uptime": "54.51%",
+    "uptime": "54.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2469,7 +2469,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -2832,8 +2833,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -2842,7 +2842,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.prod.api.eflow.com.ar.ico",
     "slug": "api-auth-prod",
     "status": "down",
-    "uptime": "54.46%",
+    "uptime": "54.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2853,7 +2853,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -3216,8 +3217,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -3226,7 +3226,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/appointment.prod.api.eflow.com.ar.ico",
     "slug": "api-appointment-prod",
     "status": "down",
-    "uptime": "54.53%",
+    "uptime": "54.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3237,7 +3237,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -3600,8 +3601,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -3610,7 +3610,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/announcement.prod.api.eflow.com.ar.ico",
     "slug": "api-announcement-prod",
     "status": "down",
-    "uptime": "53.67%",
+    "uptime": "53.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3621,7 +3621,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 265,
+      "2026-06-02": 66,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -3984,8 +3985,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -3993,20 +3993,19 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-banco",
-    "status": "up",
+    "status": "down",
     "uptime": "94.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.33%",
     "time": 760,
-    "timeDay": 762,
-    "timeWeek": 610,
-    "timeMonth": 1495,
+    "timeDay": 0,
+    "timeWeek": 617,
+    "timeMonth": 1535,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-06-03": 904,
-      "2025-06-02": 464,
       "2025-06-20": 21,
       "2025-07-12": 48,
       "2025-08-04": 24,
@@ -4040,7 +4039,8 @@
       "2026-05-01": 46,
       "2026-05-05": 55,
       "2026-05-09": 21,
-      "2026-05-24": 56
+      "2026-05-24": 56,
+      "2026-06-02": 11
     }
   },
   {
@@ -4048,20 +4048,19 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Hospital_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-hospital",
-    "status": "up",
-    "uptime": "94.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
+    "status": "down",
+    "uptime": "94.79%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.33%",
     "time": 256,
-    "timeDay": 732,
-    "timeWeek": 598,
-    "timeMonth": 1085,
-    "timeYear": 247,
+    "timeDay": 0,
+    "timeWeek": 604,
+    "timeMonth": 1141,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-06-03": 904,
-      "2025-06-02": 463,
       "2025-06-20": 20,
       "2025-07-12": 48,
       "2025-08-04": 24,
@@ -4096,7 +4095,8 @@
       "2026-05-01": 45,
       "2026-05-05": 55,
       "2026-05-09": 17,
-      "2026-05-24": 51
+      "2026-05-24": 51,
+      "2026-06-02": 6
     }
   },
   {
@@ -4104,20 +4104,19 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Municipalidad_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-municipalidad",
-    "status": "up",
-    "uptime": "94.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "status": "down",
+    "uptime": "94.72%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.37%",
     "time": 253,
-    "timeDay": 548,
-    "timeWeek": 513,
-    "timeMonth": 1104,
+    "timeDay": 0,
+    "timeWeek": 505,
+    "timeMonth": 1160,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-06-03": 904,
-      "2025-06-02": 463,
       "2025-06-20": 20,
       "2025-07-12": 47,
       "2025-08-04": 23,
@@ -4148,7 +4147,8 @@
       "2026-04-29": 69,
       "2026-05-01": 45,
       "2026-05-05": 54,
-      "2026-05-24": 47
+      "2026-05-24": 47,
+      "2026-06-02": 1
     }
   }
 ]
