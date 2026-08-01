@@ -16,7 +16,7 @@
     "timeMonth": 3717,
     "timeYear": 3761,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 3680,
     "timeYear": 3715,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 3551,
     "timeYear": 3644,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1178,7 +1178,7 @@
       "2025-09-27": 120,
       "2025-09-29": 60,
       "2025-09-30": 24,
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1481,7 +1481,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.42%",
+    "uptimeYear": "20.41%",
     "time": 1816,
     "timeDay": 3625,
     "timeWeek": 3616,
@@ -1497,7 +1497,7 @@
       "2025-09-27": 120,
       "2025-09-29": 59,
       "2025-09-30": 23,
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1807,7 +1807,7 @@
     "timeMonth": 3629,
     "timeYear": 3715,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -2191,7 +2191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -2575,7 +2575,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -2959,7 +2959,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -3343,7 +3343,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -3727,7 +3727,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1240,
+      "2026-08-01": 1252,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -4099,16 +4099,16 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Banco_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-banco",
-    "status": "down",
-    "uptime": "94.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.60%",
+    "status": "up",
+    "uptime": "94.96%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.35%",
-    "time": 812,
-    "timeDay": 645,
-    "timeWeek": 667,
-    "timeMonth": 677,
+    "time": 811,
+    "timeDay": 624,
+    "timeWeek": 659,
+    "timeMonth": 675,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2025-08-04": 24,
@@ -4153,7 +4153,7 @@
       "2026-07-02": 44,
       "2026-07-01": 20,
       "2026-07-11": 102,
-      "2026-08-01": 10
+      "2026-08-01": 22
     }
   },
   {
@@ -4161,17 +4161,17 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Hospital_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-hospital",
-    "status": "down",
+    "status": "up",
     "uptime": "95.03%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.35%",
-    "time": 365,
-    "timeDay": 562,
+    "time": 366,
+    "timeDay": 580,
     "timeWeek": 597,
-    "timeMonth": 610,
-    "timeYear": 391,
+    "timeMonth": 609,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-08-04": 24,
       "2025-08-17": 15,
@@ -4216,7 +4216,7 @@
       "2026-07-02": 44,
       "2026-07-01": 15,
       "2026-07-11": 97,
-      "2026-08-01": 6
+      "2026-08-01": 17
     }
   },
   {
@@ -4224,15 +4224,15 @@
     "url": "https://chatbot-prod.sidesys.com.ar/VQ_Municipalidad_Chatbot_PROD/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-prod.sidesys.com.ar.ico",
     "slug": "vq-chatbot-prod-rd-municipalidad",
-    "status": "down",
+    "status": "up",
     "uptime": "94.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.41%",
-    "time": 330,
-    "timeDay": 568,
-    "timeWeek": 564,
+    "time": 331,
+    "timeDay": 575,
+    "timeWeek": 567,
     "timeMonth": 589,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -4274,7 +4274,7 @@
       "2026-07-02": 44,
       "2026-07-01": 10,
       "2026-07-11": 92,
-      "2026-08-01": 1
+      "2026-08-01": 13
     }
   }
 ]
